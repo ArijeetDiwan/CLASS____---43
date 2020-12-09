@@ -1,0 +1,72 @@
+Pacman( P C= Playing Character )
+N P C(non playing character)-Ghost-4
+--------------------------------
+Goal
+
+player has to control the pacMAn to eat the dot
+-------------------
+
+rules
+
+PacMan has 2 life 
+
+ where the player leaves the game the should resume where the player left it . 
+
+PacMan can eat yellow dot 
+
+Ghost are patrolling the maze and they can eat when they catch it.
+
+there are 5 power pellets if PacMAn eats them.Pacman gets power to eat the ghost 
+
+Ghost can be reBorn and after they are eaten
+
+ifthe pacman loses all the lifes then the GameIsOver.
+
+if the pacman eats every yellow dot and the power pellets, it will level up( Game Win ).
+------------------------------------------------------------------------------------------------
+
+balanced rule 
+
+the game should not be to easy nor to difficult.
+----------------------------------------------------
+
+ Game Adaptivity 
+
+As the Game progress the difficulty level increases.
+
+
+It is harder to eat the dot 
+ 
+------------
+
+element of Chance/skill
+
+The movement of Ghost are completly Random.
+             But
+PacMan are moving by element of Skill
+
+----------------------------------------
+
+Feedback
+
+Score/Point,soUnd 
+
+In this game player gets point depending on the dot/Ghost PacMan eat
+
+Player loses life when touches/eaten By Ghost 
+
+Sound in the Game give the feeDBack to the player
+
+-------------------------------------------------------------
+
+Story-
+
+Every Game tells the Story made by the Game designer.
+
+Some Game Allow the Player to infer the Story.
+
+In the Pacman story 
+
+Who are the Ghost 
+
+Why Ghost are after the pacman. 
